@@ -1,0 +1,1 @@
+Side arrows movement. Up arrow jump. Down arrow look down. Get to the "YOU WIN" to win.
